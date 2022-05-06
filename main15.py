@@ -240,7 +240,7 @@ def masterWin():
             root.bind("<Control--KeyPress-p>", prevMusic)
             root.bind("<Alt-Control-KeyPress-o>", ask)
             root.bind("<Alt-Control-KeyPress-m>", miniPlayer)
-            root.bind("<Alt-KeyPress-Up>", Up)
+            #root.bind("<Alt-KeyPress-Up>", Up)
             #root.bind("<Alt--KeyPress-Down>", Down)
 
 
